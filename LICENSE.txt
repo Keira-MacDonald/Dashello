@@ -1,0 +1,59 @@
+
+Terms and Conditions for Use of JetBrains License
+
+Effective Date: 10-10-2024
+
+1. Acceptance of Terms
+By accessing or using the JetBrains software (the "Software") provided by Dashello, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, do not use the Software.
+
+2. License Grant
+Dashello, a brand under Trinitatis Licensing Inc., grants you a non-exclusive, non-transferable, revocable license to use the Software in accordance with JetBrains' licensing agreement. You may not copy, modify, distribute, or create derivative works based on the Software without prior written consent from Dashello and JetBrains.
+
+3. User Obligations
+You agree to:
+- Use the Software only for lawful purposes.
+- Comply with all applicable laws and regulations regarding your use of the Software.
+- Not use the Software in any manner that could harm, disable, overburden, or impair the Software or interfere with any other party's use of the Software.
+
+4. Intellectual Property
+All intellectual property rights in the Software are owned by JetBrains or its licensors. You acknowledge that you do not acquire any ownership rights in the Software by using it.
+
+5. Disclaimer of Warranties
+The Software is provided "as is" and "as available" without any warranties of any kind, either express or implied. Dashello does not warrant that the Software will be error-free, uninterrupted, or free of harmful components.
+
+6. Limitation of Liability
+In no event shall Dashello be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the Software, even if advised of the possibility of such damages.
+
+7. Termination
+Dashello reserves the right to terminate your access to the Software at any time without notice for any reason, including but not limited to your violation of these Terms and Conditions.
+
+8. Governing Law
+These Terms and Conditions shall be governed by and construed in accordance with the laws of British Columbia, Canada, without regard to its conflict of law principles.
+
+9. Non-Disclosure Agreement (NDA)
+As a condition of using the Software, you agree to the following:
+
+9.1 Definition of Confidential Information
+"Confidential Information" refers to any data or information that is proprietary to Dashello or JetBrains and not generally known to the public, including but not limited to trade secrets, business plans, technical data, and any original code or software.
+
+9.2 Obligations
+You agree to:
+- Maintain the confidentiality of the Confidential Information and not disclose it to any third parties without the prior written consent of Dashello.
+- Use the Confidential Information solely for the purpose of utilizing the Software and not for any other purpose.
+
+9.3 Exclusions
+Confidential Information does not include information that:
+- Is or becomes publicly known through no breach of this Agreement by you.
+- Is received from a third party without breach of any obligation of confidentiality.
+- Is independently developed by you without the use of or reference to the Confidential Information.
+
+9.4 Term
+The obligations of confidentiality shall survive the termination of your access to the Software and shall remain in effect for approximately one year from the date of termination.
+
+10. Changes to Terms
+Dashello reserves the right to modify these Terms and Conditions at any time. Any changes will be effective immediately upon posting the revised terms on our website. Your continued use of the Software after such changes constitutes your acceptance of the new terms.
+
+11. Contact Information
+For any questions about these Terms and Conditions, please contact us at:
+- Email: hello@Dashello.co
+- Address: 45344 Spruce Dr, Chilliwack, BC V2R 3V3, Canada
